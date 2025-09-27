@@ -1,5 +1,4 @@
-//here you are using the concept of composition instead of inheritance i.e., using class as a data 
-// type only
+//here you are using the concept of composition instead of inheritance i.e., using class as a data type only
 
 
 #include<iostream>
